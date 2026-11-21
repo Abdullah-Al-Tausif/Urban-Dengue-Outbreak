@@ -1,4 +1,4 @@
-# Dengue Early-Warning System (EDU AI Engineering Hackathon 2026, Phase 1)
+# Dengue Early-Warning System
 
 Predicts **ward-level dengue risk (Low / Medium / High / Critical) 2 to 4 weeks ahead** from multi-week lagged rainfall,
 temperature, humidity and ward vulnerability, with a dashboard that shows the main weather drivers.
