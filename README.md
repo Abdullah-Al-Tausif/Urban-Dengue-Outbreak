@@ -6,10 +6,10 @@ temperature, humidity and ward vulnerability, with a dashboard that shows the ma
 ## Team
 | Member | Role |
 |---|---|
-| TEAM NAME HERE | |
-| Full Name (Team Leader) | e.g. data and ML pipeline |
-| Full Name | e.g. dashboard |
-| Full Name | e.g. documentation, tests, video |
+| ZeroTrace | |
+| Saadman Aziz (Team Leader) | data and ML pipeline |
+| Abdullah Al Tousif Habib | UI |
+| Aditya Dey | tests, video |
 
 ## Tech stack
 Python 3.10+, pandas, NumPy, scikit-learn utilities, LightGBM, joblib, Streamlit, Altair, pytest.
@@ -46,15 +46,13 @@ Tier accuracy 82-85%. See `ARCHITECTURE.md` and the dashboard's Model validation
 
 ## Demo
 - Run locally with the commands above.
-- Video: PASTE VIDEO LINK HERE
 
 ## AI tools and APIs disclosure
-**Edit this section so it is completely accurate before submitting (Rulebook 9.2).**
 
 | Tool / API | Used for |
 |---|---|
 | Claude (Anthropic) | Planning the approach and generating first drafts of the pipeline, training script, dashboard, tests and documentation in this repository; reviewed and edited by the team |
-| (add any other assistant, e.g. ChatGPT, Copilot, Gemini) | (what for) |
+| (ChatGPT, Copilot, Gemini) | (Basic understanding) |
 | External APIs at runtime | None. The app makes no API or LLM calls. |
 
 ## Attributions
