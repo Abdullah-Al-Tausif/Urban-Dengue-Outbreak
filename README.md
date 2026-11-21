@@ -1,7 +1,6 @@
 # Hackathon Project
-# Project Description 
+## Project Description 
 A Machine learning based application with an interactive user interface to predict Dengue outbreak.
-# Installation process
+## Installation process
 1. git clone the repository code url
-<br>
-2. 
+2. Install the requirements
