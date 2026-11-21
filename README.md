@@ -4,9 +4,9 @@ Predicts **ward-level dengue risk (Low / Medium / High / Critical) 2 to 4 weeks 
 temperature, humidity and ward vulnerability, with a dashboard that shows the main weather drivers.
 
 ## Team
+| ZeroTrace | |
 | Member | Role |
 |---|---|
-| ZeroTrace | |
 | Saadman Aziz (Team Leader) | data and ML pipeline |
 | Abdullah Al Tousif Habib | UI |
 | Aditya Dey | tests, video |
