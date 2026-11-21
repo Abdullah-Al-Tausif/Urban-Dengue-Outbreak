@@ -1,3 +1,4 @@
 # Hackathon Project
-#A Machine learning based application with an interactive user interface to predict Dengue outbreak.
+# Project Description 
+A Machine learning based application with an interactive user interface to predict Dengue outbreak.
 #
