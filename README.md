@@ -1,2 +1,3 @@
-# Urban-Dengue-Outbreak
-Using AI model to predict Dengue outbreak
+# Hackathon Project
+#A Machine learning based application with an interactive user interface to predict Dengue outbreak.
+#
