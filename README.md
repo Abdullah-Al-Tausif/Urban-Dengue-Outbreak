@@ -1,7 +1,5 @@
 # Hackathon Project
-## Project Description 
+## Dengue Outbreak Predictor
 A Machine learning based application with an interactive user interface to predict Dengue outbreak.
-## Installation process
-1. git clone the repository code url
-2. Install the requirements 
-3. 
+## Overview
+Dengue outbreak predictor helps public health reaserchers, policymakers, and analysts anticipate potential dengue fever surge s before they peak by analyzing different environmental factors. Users can input weather information and get a visualization of outbreak probabilities.  
