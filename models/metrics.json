@@ -1,0 +1,134 @@
+{
+  "h2": {
+    "MAE": 0.9987179868577116,
+    "RMSE": 1.973883739661778,
+    "tier_accuracy": 0.8475728155339806,
+    "within_one_tier": 0.988673139158576,
+    "high_or_critical_recall": 0.5608465608465608,
+    "high_or_critical_precision": 0.6638830897703549,
+    "confusion_matrix": [
+      [
+        4339,
+        285,
+        16,
+        3
+      ],
+      [
+        125,
+        703,
+        124,
+        18
+      ],
+      [
+        4,
+        216,
+        159,
+        29
+      ],
+      [
+        0,
+        29,
+        93,
+        37
+      ]
+    ],
+    "interval_80_coverage": 0.8079288025889968,
+    "best_iteration": 234,
+    "baseline_ward_mean_MAE": 3.0951025717730456,
+    "baseline_persistence_MAE": 1.690938511326861,
+    "with_case_history_MAE": 1.0038031048610805,
+    "with_case_history_RMSE": 2.007097225230648
+  },
+  "h3": {
+    "MAE": 1.0307451530574971,
+    "RMSE": 1.9837843515334979,
+    "tier_accuracy": 0.8410130718954248,
+    "within_one_tier": 0.9872549019607844,
+    "high_or_critical_recall": 0.5361552028218695,
+    "high_or_critical_precision": 0.6191446028513238,
+    "confusion_matrix": [
+      [
+        4288,
+        278,
+        16,
+        1
+      ],
+      [
+        132,
+        668,
+        158,
+        12
+      ],
+      [
+        8,
+        214,
+        160,
+        26
+      ],
+      [
+        0,
+        41,
+        87,
+        31
+      ]
+    ],
+    "interval_80_coverage": 0.803921568627451,
+    "best_iteration": 316,
+    "baseline_ward_mean_MAE": 3.0987619230698815,
+    "baseline_persistence_MAE": 1.9238562091503268,
+    "with_case_history_MAE": 1.02063200440717,
+    "with_case_history_RMSE": 1.9638979248092774
+  },
+  "h4": {
+    "MAE": 1.2456213448958533,
+    "RMSE": 2.4202847296577463,
+    "tier_accuracy": 0.8242574257425742,
+    "within_one_tier": 0.9752475247524752,
+    "high_or_critical_recall": 0.5414462081128748,
+    "high_or_critical_precision": 0.5074380165289256,
+    "confusion_matrix": [
+      [
+        4186,
+        293,
+        37,
+        7
+      ],
+      [
+        100,
+        616,
+        226,
+        28
+      ],
+      [
+        19,
+        182,
+        175,
+        32
+      ],
+      [
+        2,
+        57,
+        82,
+        18
+      ]
+    ],
+    "interval_80_coverage": 0.8259075907590759,
+    "best_iteration": 244,
+    "baseline_ward_mean_MAE": 3.102730861321427,
+    "baseline_persistence_MAE": 2.1364686468646865,
+    "with_case_history_MAE": 1.2484505237585428,
+    "with_case_history_RMSE": 2.451366722792942
+  },
+  "_info": {
+    "tier_cuts": [
+      4,
+      9,
+      14
+    ],
+    "train_period": "2016-01-04 to 2022-12-31",
+    "validation_period": "2022-12-31 (exclusive) to 2023-12-31",
+    "test_period": "after 2023-12-31 to 2025-12-29",
+    "n_features": 37,
+    "training_seconds": 17.8
+  }
+}

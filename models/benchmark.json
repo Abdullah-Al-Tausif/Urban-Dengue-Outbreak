@@ -1,0 +1,7 @@
+{
+  "startup_load_and_feature_build_seconds": 0.28,
+  "all_60_wards_x_3_horizons_ms_median": 16.7,
+  "single_ward_prediction_with_drivers_ms_median": 8.8,
+  "total_model_size_kb": 1341.0,
+  "external_api_calls_at_inference": 0
+}
