@@ -5,8 +5,6 @@ Data: 60 wards in 5 cities (Dhaka North/South, Chattogram, Gazipur, Narayanganj)
 
 ## 1. Data flow
 
-## 1. Data flow
-
 ```mermaid
 flowchart LR
     A[CSV: weekly weather, ward attributes, cases] --> B[Load and validate data<br/>weekly spacing, no duplicates]
