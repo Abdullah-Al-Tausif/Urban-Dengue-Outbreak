@@ -5,6 +5,9 @@ Data: 60 wards in 5 cities (Dhaka North/South, Chattogram, Gazipur, Narayanganj)
 
 ## 1. Data flow
 
+## 1. Data flow
+
+```mermaid
 flowchart LR
     A[CSV: weekly weather, ward attributes, cases] --> B[Load and validate data<br/>weekly spacing, no duplicates]
     B --> C[Feature pipeline per ward_id<br/>rain lags 0-8 wks, rolling sums of rain and temp, temp/humidity lags,<br/>vulnerability, interactions, seasonal impact]
@@ -101,4 +104,3 @@ under-called by one tier (98%+ are within one tier). Treat Medium plus a high up
 
 Modules are separable (`features`, `train`, `predict`, `tiers`, `app`). Lag windows, horizons, split dates and tier
 quantiles live in `src/config.py`; retraining on new data is one command.
-
